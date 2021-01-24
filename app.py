@@ -58,7 +58,7 @@ def user_input():
     exang = st.radio('Exercise Induced Angina',("No", "Yes"))
     oldpeak = st.slider('ST depression induced by exercise relative to rest',0.0,8.0,4.0)
     slope = st.radio('The slope of the peak exercise ST segment',("Upsloping", "Flat", "Downsloping"))
-    ca = st.selectbox('Number of major vessels (0-3) colored by Flourosopy',0,3,1)
+    ca = st.selectbox('Number of major vessels (0-3) colored by Flourosopy',(0,1,3))
     thal = st.radio('Thalassemia',('Normal','Fixed defect','Reversable defect'))
 
     user_data = {}
