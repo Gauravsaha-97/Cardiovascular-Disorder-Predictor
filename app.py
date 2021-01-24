@@ -6,12 +6,10 @@ from sklearn.preprocessing import StandardScaler
 import streamlit as st
 
 header = """
-<div style="background-color:#fff0e6;height:100%;width:100%">
 <div style="background-color:#ff751a;padding:10px;border-radius:10%;box-shadow: 5px 10px #888888">
 <h1 style="color:white;text-align:center">Cardiovascular Disorder Predictor</h1>
 </div>
 <br>
-</div>
 """
 st.markdown(header, unsafe_allow_html=True)
 
