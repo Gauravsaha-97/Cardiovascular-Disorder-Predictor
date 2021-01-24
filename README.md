@@ -11,4 +11,5 @@ Accuracy Score of Decision Tree Classifier Model is 78.02%<br></strong>
 
 The best Accuracy Score is achieved by using K-Nearest Neighbors Algorithm with n_neighbors = 6. The Accuracy achieved is around 87%. So, I have used that model in the web application. The interface of the app is built using Streamlit.
 
-The link to the dataset is [Heart Disorder Data](https://www.kaggle.com/ronitf/heart-disease-uci).
+The link to the dataset is [Heart Disorder Data](https://www.kaggle.com/ronitf/heart-disease-uci)
+Do 🌟 if you find this project useful.
