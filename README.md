@@ -9,6 +9,6 @@ Accuracy Score of KNN Classifier Model is 86.81%<br>
 Accuracy Score of SVM Classifier Model is 82.42%<br>
 Accuracy Score of Decision Tree Classifier Model is 78.02%<br></strong>
 
-The best Accuracy Score is achieved by using K-Nearest Neighbors Algorithm with n_neighbors = 6. The Accuracy achieved is 87%.So, I have used that model in the web application. The interface of the app is built using Streamlit.
+The best Accuracy Score is achieved by using K-Nearest Neighbors Algorithm with n_neighbors = 6. The Accuracy achieved is around 87%. So, I have used that model in the web application. The interface of the app is built using Streamlit.
 
 The link to the dataset is [Heart Disorder Data](https://www.kaggle.com/ronitf/heart-disease-uci).
