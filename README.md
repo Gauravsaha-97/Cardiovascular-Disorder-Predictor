@@ -13,5 +13,7 @@ The best Accuracy Score is achieved by using K-Nearest Neighbors Algorithm with 
 
 The link to the dataset is [Heart Disorder Data](https://www.kaggle.com/ronitf/heart-disease-uci)
 <br>
+Visit this [link](http://cardiac-disorder-predictor-app.herokuapp.com/) to view the project.
+<br>
 <br>
 Do give a 🌟 if you find this project useful.
